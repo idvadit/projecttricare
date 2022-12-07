@@ -52,3 +52,7 @@ a.social {
     padding-top: 20%;
     color: #fff;
 }
+
+.card {
+    border-radius: 0.7rem;
+}
