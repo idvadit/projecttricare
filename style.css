@@ -57,6 +57,10 @@ a.social {
     border-radius: 0.7rem;
 }
 
+.card:hover {
+    transform: scale(1.1);
+}
+
 section {
     padding-top: 5rem;
 }
